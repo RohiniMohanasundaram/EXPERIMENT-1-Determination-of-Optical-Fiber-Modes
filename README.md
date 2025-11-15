@@ -16,6 +16,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 
+
 ## 📚 THEORY
 
 The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w.
